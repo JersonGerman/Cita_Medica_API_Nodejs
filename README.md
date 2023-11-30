@@ -8,7 +8,7 @@
 ## Overview
 This project contains three apis services to create, lista a user and authenticate with jwt
 * `GET` `/api/v1/users`
-* `POST` /api/v1/users`
+* `POST` `/api/v1/users`
 * `POST` `/api/v1/users/login`
 
 
